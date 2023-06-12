@@ -1,5 +1,6 @@
 config.env
 node_modules/*
+
 # dependencies
 /node_modules
 /frontend/node_modules
